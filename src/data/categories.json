@@ -1,0 +1,51 @@
+[
+  {
+    "id": "vases-bowls",
+    "name": "Vases & Bowls",
+    "count": 188,
+    "description": "Hand-hammered aluminium, turned brass, and distressed wood decorative bowls & vases.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/36906fb6-7df7-5eac-ab36-b9fb1a3219aa/packshot-1791572488248.png"
+  },
+  {
+    "id": "candles",
+    "name": "Candles & Lanterns",
+    "count": 141,
+    "description": "Export-grade pillar holders, perforated metal lanterns, and glass votives.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/0cd0e848-d4c2-47bc-b0e8-98104d425e2c/packshot.png"
+  },
+  {
+    "id": "planters",
+    "name": "Planters",
+    "count": 99,
+    "description": "Sheet metal pots, ribbed iron planters, and tripod floor planters.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/dbb73e26-f675-5325-a7e4-381fab85e464/packshot-1791572535053.png"
+  },
+  {
+    "id": "outdoor-accessories",
+    "name": "Outdoor Accessories",
+    "count": 174,
+    "description": "Weather-resistant iron garden decor, wind chimes, and patio accents.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/421d351b-bb45-5ccc-ba82-cab821315c3f/packshot-1791572551558.png"
+  },
+  {
+    "id": "sculptures",
+    "name": "Sculptures & Figurines",
+    "count": 59,
+    "description": "Cast aluminium abstract forms, wildlife accents, and artistic tabletop pieces.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/bd0fcbd6-e1d0-4116-83f7-3df20bc03a3d/packshot.png"
+  },
+  {
+    "id": "objects",
+    "name": "Decorative Objects",
+    "count": 51,
+    "description": "Curated tabletop trinkets, spheres, and metal geo accents.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/79d955bf-60fc-550d-9e48-30b962c7edb7/packshot-1791572520453.png"
+  },
+  {
+    "id": "trays",
+    "name": "Trays & Platters",
+    "count": 38,
+    "description": "Serving trays with antique brass handles and natural wood grain finishes.",
+    "imageUrl": "https://images.poly9.ai/products/images/9347e616-9901-46d5-9b3b-5df33daaf4eb/renders/e014ecbf-ef46-43ea-8978-bdffb9ec09eb/packshot.png"
+  }
+]

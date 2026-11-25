@@ -1,0 +1,19 @@
+{
+  "companyName": "SAG New Look",
+  "tagline": "Aluminium, Iron, Wood and Glass Décor from Moradabad",
+  "description": "Export home décor manufacturer and exporter based in Moradabad, Uttar Pradesh, India. Specializing in high-quality handcrafted aluminium figurines, iron planters, wooden bowls, and glass candle holders with competitive FOB pricing.",
+  "location": "Moradabad, Uttar Pradesh, India",
+  "fobPort": "Mundra / Nhava Sheva (JNPT), India",
+  "email": "exports@sagnewlook.com",
+  "phone": "+91 98370 12345",
+  "established": "2008",
+  "moqPolicy": "Flexible MOQ for custom container assortments",
+  "leadTime": "30 to 45 days after order confirmation",
+  "tradeFairs": ["IHGF Delhi Fair", "Ambiente Frankfurt", "High Point Market"],
+  "stats": {
+    "productsCount": 664,
+    "categoriesCount": 7,
+    "countriesExported": 28,
+    "leadTimeAvgDays": 30
+  }
+}
